@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pear_snow.mp3</file>
+        <file>output.mp4</file>
+    </qresource>
+</RCC>
